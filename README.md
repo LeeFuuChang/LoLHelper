@@ -1,6 +1,6 @@
 # LoLHelper 使用教學
 
-> Please 如果要搬遷請註明出處 QwQ 不要當黏貼人
+> ### Please 如果要搬遷請註明出處 QwQ 不要當黏貼人
 
 ## 目錄
 1. ### [LoLHelper-小助手相關資訊](#lolhelper-小助手相關資訊-1)
