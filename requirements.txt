@@ -1,0 +1,8 @@
+pillow
+pygame
+numpy
+opencv-python
+pywin32
+requests
+keyboard
+setuptools
