@@ -12,10 +12,6 @@
 <br>
 
 ## LoLHelper 小助手相關資訊
-:::success
-Discord群組開幕啦
-邀請連結： [https://discord.gg/k7wpKMnbY5](https://discord.gg/k7wpKMnbY5)
-:::
 ### 支援模式如下 
 :::info
 1. 召喚峽谷 5v5 盲選模式
