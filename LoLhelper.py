@@ -127,6 +127,7 @@ class LoLHelper:
 
 
     def contactServer(self):
+        # try fetch to assert URL&Token
         data = self.fetch(f"lol-summoner/v1/current-summoner")
         if not data["success"]: return FAILED_JSON_RETURN.copy()
         else: data = data["res"]
@@ -136,8 +137,6 @@ class LoLHelper:
         username = data.get("displayName", None)
         accountId = data.get("accountId", None)
         if puuid is None or username is None or accountId is None: return FAILED_JSON_RETURN.copy()
-
-        self.post(f"Login", payload={"puuid":puuid, "username":username, "accountId":accountId})
 
         return SUCCESS_JSON_RETURN.copy()
 
