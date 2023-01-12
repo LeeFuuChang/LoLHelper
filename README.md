@@ -103,7 +103,7 @@
 <br>
 
 ### (4) 左鍵點擊敵方英雄頭像可以自動發送敵方召喚師技能剩餘冷卻時間
->（格式為： ex. MID | D 123s | F 221s | ( Zed )
+>（格式為： ex. MID | D 123s | F 221s | ( Zed )<br>
 >（-------：　　路線　D冷卻　F冷卻　英雄名
 
 ![](https://i.imgur.com/WLoowjM.gif)
